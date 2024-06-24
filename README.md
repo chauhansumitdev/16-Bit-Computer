@@ -1,5 +1,6 @@
-# 16-Bit-Computer<img width="960" alt="Riser16" src="https://github.com/chauhansumitdev/16-Bit-Computer/assets/103536827/ddf212d3-1ec9-4028-a8e3-6dab1b1e2df6">
-![Riser16](https://github.com/chauhansumitdev/16-Bit-Computer/assets/103536827/350c0d2e-f081-4130-8a45-852a0d762a58)
+# 16-Bit-Computer
+![Riser16 (2)](https://github.com/chauhansumitdev/16-Bit-Computer/assets/103536827/b68b2290-3f3a-49e1-9ec6-5a8121f6a081)
+![Riser16](https://github.com/chauhansumitdev/16-Bit-Computer/assets/103536827/11642982-4abb-4438-a7db-8bbe702a5566)
 
 [Watch showcase here](https://www.linkedin.com/posts/chauhansumitdev_i-made-a-custom-computer-introducing-riser16-activity-7210911977756327936-PNaN?utm_source=share&utm_medium=member_desktop)
 
