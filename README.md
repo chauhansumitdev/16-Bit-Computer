@@ -49,7 +49,7 @@ To run the riser16 project, you will need Logisim, an educational tool for desig
    - Run simulations to see the 16-bit computer in action.
 
 ## Instruction Set
-For a comprehensive guide to the instruction set, refer to the [Instruction Set Documentation](link-to-instruction-set-file).
+For a comprehensive guide to the instruction set, refer to the [Instruction Set Documentation](instruction-set.md).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](link-to-license) file for details.
