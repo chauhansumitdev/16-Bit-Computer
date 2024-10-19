@@ -1,4 +1,4 @@
-# 16-Bit-Computer
+# riser16_ : 16-Bit-Computer
 ![Riser16 (2)](https://github.com/chauhansumitdev/16-Bit-Computer/assets/103536827/b68b2290-3f3a-49e1-9ec6-5a8121f6a081)
 ![Riser16](https://github.com/chauhansumitdev/16-Bit-Computer/assets/103536827/11642982-4abb-4438-a7db-8bbe702a5566)
 
@@ -7,6 +7,9 @@
 ## About
 
 **riser16** is a 16-bit computer project that visualizes the low-level workings of computers. This project follows a Von Neumann architecture, using a common bus for both data and addressing. The complete description of its architecture and specifications are as follows:
+
+
+![Screenshot 2024-06-22 025528](https://github.com/user-attachments/assets/b005c05b-beb9-4716-baab-cb7ac539a3b0)
 
 ## Hardware Specifications:
 - **Architecture**: Von Neumann with a common data and address bus.
